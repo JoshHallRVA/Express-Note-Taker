@@ -3,6 +3,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
+	font-family: "Bangers";
 }
 
 .save-note {
@@ -22,6 +23,7 @@ body {
 	width: 100%;
 	outline: none;
 	border: none;
+	font-family: "Bangers";
 }
 
 .note-textarea {
@@ -34,6 +36,7 @@ body {
 	height: 50px;
 	margin-top: 13px;
 	font-size: 3rem;
+	font-family: "Bangers";
 }
 
 .note-title:read-only,
@@ -70,4 +73,8 @@ body {
 	border-right: none;
 	padding: 20px;
 	cursor: pointer;
+}
+
+.fnt {
+	font-family: "Bangers";
 }
